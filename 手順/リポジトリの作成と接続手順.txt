@@ -1,0 +1,21 @@
+1.リモートリポジトリの作成とssh接続の手順
+https://www.sejuku.net/blog/73468
+https://blog.cloud-acct.com/posts/u-github-ssh/
+
+↓うまくいかない場合のトラブルシューティング
+https://ormcat.net/blog/20210509_github-denied-publickey/
+
+
+2.日本語化の設定
+https://designetwork.daichi703n.com/entry/2016/12/10/git-bash-japanese
+(やっていることはかわらないが、localeを直接操作するこちらでもかわらない
+https://ygkb.jp/3494
+)
+
+git statusの日本語化はは別で設定する必要がある
+https://maku77.github.io/git/settings/garbling.html
+
+
+すると、git cloneができるようになるので、あとは編集してpushするのみ
+
+
